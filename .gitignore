@@ -25,3 +25,6 @@ deploy
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+# Learning Resources
+learning_resources
